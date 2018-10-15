@@ -10,8 +10,7 @@ public class CalculatorApplication {
 		int inputNumber=0;
 		
         Calculator calculator = new Calculator();     
-   		
-        
+   		        
         	while (!operation.equalsIgnoreCase("Q")) {
         		
         	 	result=0;
