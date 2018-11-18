@@ -7,6 +7,7 @@ public class UIUtils {
 	public static String readString(String message) {
 		
 	    System.out.print(message);
+	    
 	    return (new Scanner(System.in)).nextLine();
 	}
 
